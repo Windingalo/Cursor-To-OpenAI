@@ -18,7 +18,7 @@ This project provides a proxy service that converts the AI chat of the Cursor Ed
 
 ### Run in docker
 ```
-docker run -d --name cursor-to-openai -p 3010:3010 ghcr.io/jiuz-chn/cursor-to-openai:latest
+docker run -d --name cursor-to-openai -p 3010:3010 ghcr.io/windingalo/cursor-to-openai:latest
 ```
 
 ### Run in npm
